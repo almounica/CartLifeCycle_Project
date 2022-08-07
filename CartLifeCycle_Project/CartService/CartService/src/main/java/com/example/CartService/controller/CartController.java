@@ -45,15 +45,5 @@ public class CartController {
        cartService.deleteItem(cartId);
         return "product deleted with id :"+ cartId;
     }
-    //adding address
-
-    //adding payment
-
-    //complete order
-
-
-
-
-
 
 }
